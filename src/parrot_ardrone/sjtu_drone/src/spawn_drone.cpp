@@ -4,8 +4,6 @@
 #include <gazebo/gazebo.hh>
 #include <gazebo/gazebo_client.hh>
 
-#include <ignition/math/Inertial.hh>
-#include <ignition/math/MassMatrix3.hh>
 #include <ignition/math/Plane.hh>
 #include <ignition/math/Pose3.hh>
 #include <ignition/math/Vector3.hh>
